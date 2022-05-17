@@ -1,0 +1,45 @@
+/* ************************************************************************** */
+/*                                                                            */
+/*                                                        :::      ::::::::   */
+/*   ft_strlcat.c                                       :+:      :+:    :+:   */
+/*                                                    +:+ +:+         +:+     */
+/*   By: ogorfti <ogorfti@student.1337.ma>          +#+  +:+       +#+        */
+/*                                                +#+#+#+#+#+   +#+           */
+/*   Created: 2022/04/12 23:09:51 by ogorfti           #+#    #+#             */
+/*   Updated: 2022/04/13 01:26:56 by ogorfti          ###   ########.fr       */
+/*                                                                            */
+/* ************************************************************************** */
+
+unsigned int	ft_strlen(char *str)
+{
+	int	i;
+
+	i = 0;
+	while (str[i] != '\0')
+		i++;
+	return (i);
+}
+
+unsigned	int	ft_strlcat(char *dest, char *src, unsigned int size)
+{
+	unsigned int	i;
+	unsigned int	j;
+	unsigned int	len_d;
+	unsigned int	len_s;
+
+	i = 0;
+	j = 0;
+	len_d = ft_strlen(dest);
+	len_s = ft_strlen(src);
+	j = len_d;
+	if (size == 0 || size <= len_d)
+		return (len_s + size);
+	while (src[i] != '\0' && i < size - len_d - 1)
+	{
+		dest[j] = src[i];
+		i++;
+		j++;
+	}
+	dest[j] = '\0';
+	return (len_d + len_s);
+}
