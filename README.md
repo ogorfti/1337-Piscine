@@ -1,12 +1,6 @@
 ## About 1337 Piscine:
 
-This project is a programming bootcamp concerning 1337 school, it lasts roughly 
-4 weeks, working 7 days a week, day and night. (error 404 sleep will never be found)
-These bootcamp covers the basics of programming so there's no need to have any experience at
-all. People will try and will fail, over and over again. This trial-and-error
-process is necessary in order to find solutions to different problems that 
-once thought impossible. People learn in groups with other
-students, without teachers. It can be done, and it works.
+This programming bootcamp, conducted by 1337 School, lasted for four intensive weeks with seven days of work per week. Sleep was a rare luxury during this program, as we worked day and night to cover the basics of programming. Although no prior experience was required, participants were constantly challenged with trial-and-error processes to solve difficult problems. Working in groups, we learned from our peers without any formal teachers. It was tough, but ultimately rewarding as we developed our skills and tackled problems that once seemed impossible.
 
 > If you're going through hell, keep going. ― Winston Churchill
 
