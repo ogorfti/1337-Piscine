@@ -9,7 +9,9 @@ once thought impossible. People learn in groups with other
 students, without teachers. It can be done, and it works.
 
 > If you're going through hell, keep going. ― Winston Churchill
+
 > keep this in mind!
+
 ----
 
 
