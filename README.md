@@ -1,3 +1,11 @@
+<p align="center">
+	<b><i>This is  my selection pool at 1337 MED, a whole month of coding none stop.</i></b><br>
+</p>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/mYbsoApPfp0cg/giphy.gif" alt="animated" />
+</div>
+
 ## About 1337 Piscine:
 
 This programming bootcamp, conducted by 1337 School, lasted for four intensive weeks with seven days of work per week. Sleep was a rare luxury during this program, as we worked day and night to cover the basics of programming. Although no prior experience was required, participants were constantly challenged with trial-and-error processes to solve difficult problems. Working in groups, we learned from our peers without any formal teachers. It was tough, but ultimately rewarding as we developed our skills and tackled problems that once seemed impossible.
